@@ -49,12 +49,12 @@
 │   │   │   │   ├── Posts.css
 │   │   │   │   ├── Posts.js
 │   │   │   │   └── page.jsx
+│   │   │   ├── GeminiAI/
+│   │   │   │   └── page.jsx
 │   │   │   ├── Hackathon/
 │   │   │   │   ├── Card.jsx
 │   │   │   │   ├── [id]/
 │   │   │   │   │   └── page.jsx
-│   │   │   │   └── page.jsx
-│   │   │   ├── PrivacyPolicy/
 │   │   │   │   └── page.jsx
 │   │   │   ├── PrivacyPolicy/
 │   │   │   │   └── page.jsx
@@ -82,6 +82,9 @@
 │   │   │   │   └── page.jsx
 │   │   │   ├── TermsAndConditions/
 │   │   │   │   └── page.jsx
+│   │   │   ├── api/
+│   │   │   │   └── generate/
+│   │   │   │       └── route.js
 │   │   │   ├── careers/
 │   │   │   │   └── page.jsx
 │   │   │   └── localdev/
