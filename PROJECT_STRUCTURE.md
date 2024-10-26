@@ -51,6 +51,10 @@
 │   │   │   │   └── page.jsx
 │   │   │   ├── Hackathon/
 │   │   │   │   ├── Card.jsx
+│   │   │   │   ├── [id]/
+│   │   │   │   │   └── page.jsx
+│   │   │   │   └── page.jsx
+│   │   │   ├── PrivacyPolicy/
 │   │   │   │   └── page.jsx
 │   │   │   ├── PrivacyPolicy/
 │   │   │   │   └── page.jsx
@@ -82,6 +86,9 @@
 │   │   │   │   └── page.jsx
 │   │   │   └── localdev/
 │   │   │       └── page.jsx
+│   │   ├── api/
+│   │   │   └── subscribe/
+│   │   │       └── route.js
 │   │   ├── favicon.ico
 │   │   ├── fonts/
 │   │   │   ├── GeistMonoVF.woff
